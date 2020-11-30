@@ -253,7 +253,7 @@
                DISPLAY "*****************************************"
            ELSE
                DISPLAY "*****************************************"
-               DISPLAY "El erro esta en la posicion: " ErrorPosition
+               DISPLAY "El error esta en la posicion: " ErrorPosition
                DISPLAY "*****************************************".
 
        END PROGRAM HAMMING.
